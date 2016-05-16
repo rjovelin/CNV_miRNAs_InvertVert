@@ -1,0 +1,4 @@
+# ignore all files but python and markdown files and gitignore itself
+!.gitignore
+!*.py
+!*.md
